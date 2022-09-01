@@ -13,19 +13,13 @@ public class NaturalNumbers {
 		
 		for(int i=1;i<=n;++i)
 		{
-			
 			int sum=0;
-		sum=sum+i;
-			
-			
-				System.out.println(sum);
+		    sum=sum+i;
+			System.out.println(sum);
 		}
-		
-	
 		 int s=n*(n+1)/2;
-		
 		System.out.println("The sum of natural numbers: "+s);
-		
+		scan.close();
 	}
 
 	

@@ -19,11 +19,8 @@ public class Sum {
 		 int Average = Sum/10;
 		 System.out.println("Sum of the numbers: "+Sum);
 		 System.out.println("Average of the numbers: "+Average);
-		
-
-		
-
-	}
+		scan.close();
+		}
 	
 	}
 
