@@ -15,7 +15,7 @@ public class Multiplication {
 		{
 			int b =a*i;
 			System.out.println(a +" * "  +i +" = " +b);
-	}
-
+		}
+		 Scan.close();
 	}
 }
