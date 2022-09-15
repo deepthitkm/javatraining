@@ -23,8 +23,10 @@ for(int i=0; i<a.length-1;i++)
 
 }
 a[j++]=a[a.length-1];
+System.out.println("Array elements after removing duplicates:");
 for(int k=0;k<j;k++)
 {
+	
 	System.out.print(a[k]+" ");
 }
 

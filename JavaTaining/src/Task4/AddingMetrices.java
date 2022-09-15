@@ -46,7 +46,7 @@ for(int i=0;i<m;i++)
 		System.out.println();
 	
 }
-System.out.println("Matrix c");
+System.out.println("Sum of Matrices are:");
 for(int i=0;i<m;i++)
 {
 	for(int j=0;j<n;j++)
